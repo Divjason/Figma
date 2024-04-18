@@ -1,0 +1,19 @@
+F4648F
+BC2250
+C9D0DA
+D84265
+F2444E
+BBD94E
+FFE600
+585 x 733
+
+it / 디자인
+1) 카멜표기법 : 
+mealkitProject
+
+2) 스네이크표기법 :
+mealkit_project
+
+3) 헝가리언표기법 :
+Mealkitproject
+
