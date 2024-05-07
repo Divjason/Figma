@@ -54,3 +54,33 @@ https://www.figma.com/file/GvRUo1iHBTmUnmgRzfklqD/240507_firstproject?type=desig
 
 Notion!!!
 > 
+
+UX : User(*사용자 / 고객) Experience (*경험)
+
+UI : User(*사용자 / 고객) Interface (*경계 / 측면)
+
+UX > UI
+
+1page : Component
+2page : UI/Desktop
+
+statcounter
+
+1.Auto Layout : 그룹 / 수직.수평 정렬 쉽게
+2.Layout Grid : 
+- UI 디자인 => 화면을 몇등분으로 나눌 수 있을까
+- 10이라는 숫자 => 가장 가까운 숫자 중에 최대공약수가 가장많은 숫자? => 12
+
+전체너비 : 1920
+내부컨텐츠너비 : 1190
+좌.우 패딩 : 365 * 2
+
+Header
+Article
+
+
+
+
+
+
+
