@@ -1,0 +1,56 @@
+1.main dash board : 
+그동안 작업했던 프로젝트 리스트를 한 눈에 볼 수 있는 영역
+
+2.design file => 작업페이지로 이동
+
+3.작업페이지
+- Tool bar : 도구 모음
+- Layer Pannel : 레이어 소스를 생성하고 관리할 수 있는 영역
+- Canvas : 디자인 작업을 할 수 있는 실제 영역
+> Frame 기반으로 디자인 작업
+- Property Pannel : 색, 사이즈, 변수 등 관리할 수 영역
+- Zoom-in/out : ctrl + 마우스 휠 Up/ Down
+
+*좌표계 : 데카르트 좌표계 / 웹 좌표계
+
+Component : 컴포넌트
+- 독립화되어진 그룹
+- 레고 블럭
+- 현 시점 UX/UI 디자인을 구성할 때, 가장 중요하게 생각하고 고려하는 작업 : 컴포넌트화 되어있는가? 아닌가?
+- 
+
+unsplah
+
+Bulgaria
+Canada
+Denmark
+Finland
+
+*색의 3원색 : R G B
+*일반적으로 사용하는 숫자 개념 : 10진수
+*컴퓨터가 받아들일 수 있는 가장 큰 숫자 개념 : 16진수
+0~9 + A~F
+
+헥스코드 : 육각형 
+FF02d4
+검정색 : 000000
+흰색 : ffffff
+
+unsplash
+feather icons
+
+space between
+
+240507_firstproject
+
+#03C75A
+> 03C75B
+> 03C75D
+
+https://github.com/Divjason/Figma
+
+
+https://www.figma.com/file/GvRUo1iHBTmUnmgRzfklqD/240507_firstproject?type=design&node-id=1%3A2&mode=design&t=7WaDIMzHgeLNyg7E-1
+
+Notion!!!
+> 
